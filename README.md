@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MackDever
 - 👀 I’m interested in Web Design, Software Development, and D&D 🐉
-- 🌱 I’m currently learning .NET, Azure, and AWS
+- 🌱 I’m currently learning .NET, Azure, AWS, and ethical hacking.
 - 📫 How to reach me ... website in progress!
 
 <!---

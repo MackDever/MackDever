@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MackDever
-- 👀 I’m interested in Web Design, Software Development, and D&D 🐉
-- 🌱 I’m currently learning .NET, Azure, AWS, and ethical hacking.
-- 📫 How to reach me ... website in progress!
+- 👀 I’m interested in Data Analysis, Software Development, and D&D 🐉
+- 📫 How to reach me: www.linkedin.com/in/mackenzie-dever
 
 <!---
 MackDever/MackDever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
